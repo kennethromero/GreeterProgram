@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="___lbnFirstName_" Content="First Name" HorizontalAlignment="Left" Height="25" Margin="69,55,0,0" VerticalAlignment="Top" Width="69" RenderTransformOrigin="0.773,0.707"/>
+        <TextBox x:Name="___txtFirstName_" HorizontalAlignment="Left" Height="25" Margin="138,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" Text="mark"/>
+        <Label x:Name="___lbnLastName_" Content="Last Name" HorizontalAlignment="Left" Height="29" Margin="69,108,0,0" VerticalAlignment="Top" Width="69"/>
+        <TextBox x:Name="___txtLastName_" HorizontalAlignment="Left" Height="29" Margin="138,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163" Text="arsua"/>
+        <Button x:Name="___btnClickME_" Content="Click Me" HorizontalAlignment="Left" Height="27" Margin="276,215,0,0" VerticalAlignment="Top" Width="77" Click="___btn_Enter__Click"/>
+        <Label x:Name="___lbnColor_" Content="Color" HorizontalAlignment="Left" Height="26" Margin="69,179,0,0" VerticalAlignment="Top" Width="69"/>
+        <ComboBox x:Name="___cboColor_" HorizontalAlignment="Left" Height="26" Margin="154,179,0,0" VerticalAlignment="Top" Width="102"/>
     </Grid>
 </Window>

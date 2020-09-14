@@ -1,0 +1,15 @@
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\bin\Debug\GreeterProject.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\bin\Debug\GreeterProject.exe
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\bin\Debug\GreeterProject.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.exe
+C:\Users\Kenneth\Desktop\ict project\projects\GreeterProject\obj\Debug\GreeterProject.pdb
